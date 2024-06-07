@@ -13,7 +13,7 @@ public class Prueba {
 		long PID = self.pid();
 		System.out.println(PID);
 		System.out.println("-----------");
-		
+
 		ProcessHandle.Info procInfo = self.info();
 		System.out.println(self.info().toString());
 		System.out.println("-----------");

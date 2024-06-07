@@ -5,46 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca0b9f8-2eb0-41e0-9c4b-e6aebe276e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/factory/Pruebas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/http/Pruebas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/processInformation/Prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/streams/DropWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/streams/Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/streams/IterateInfinito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/streams/TakeWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/PeeperJavaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/PeeperJavaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/base64/PruebasBase64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/interfaces/Pruebas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/interfaces/uno/Clase1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/interfaces/uno/Clase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/interfaces/uno/Implementacion1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/interfaces/uno/Implementacion2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/interfaces/uno/Interfaz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/InterfaceDeUnParametro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/InterfaceDosParametros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/InterfaceReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/InterfaceSinParametro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/PruebasLambdasInterfacesApiJdk8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/PruebasLambdasInterfacesCustom$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/PruebasLambdasInterfacesCustom$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/PruebasLambdasInterfacesCustom$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/PruebasLambdasInterfacesCustom$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/lambdas/PruebasLambdasInterfacesCustom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Direccion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Factura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/FacturaDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Pelicula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Persona.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/model/Persona1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/optionals/Pruebas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/service/GestorPeliculas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/streams/PruebasStreams$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/streams/PruebasStreams$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/streams/PruebasStreams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/streams/Statis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/times/Time.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/collectors/Pruebas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/inferencia/Inferencia0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/inferencia/Inferencia1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/orelsethrow/Pruebas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/http/Pruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/module/Pruebas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/processInformation/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/processInformation/Prueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk9/http/Pruebas.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DropWhile.executor": "Run",
+    "Application.Inferencia1.executor": "Run",
     "Application.Iterate.executor": "Run",
     "Application.IterateInfinito.executor": "Run",
     "Application.Prueba.executor": "Run",
@@ -89,48 +59,35 @@
     "Application.PruebasStreams.executor": "Run",
     "Application.TakeWhile.executor": "Run",
     "Application.Time.executor": "Run",
+    "Application.com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas.executor": "Run",
     "Application.com.toniferr.peeperJava.optionals.Pruebas.executor": "Run",
     "JUnit.PeeperJavaApplicationTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/toniferr/Workspace/peeperJava/src/main/java/com/toniferr/peeperJava/jdk9/processInformation",
+    "last_opened_file_path": "/home/toniferr/Workspace/peeperJava/src/main/java/com/toniferr/peeperJava/jdk10/orelsethrow",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/orelsethrow" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/collectors" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/inferencia/model" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/inferencia" />
       <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/processInformation" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/streams" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/http" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/factory" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/base64" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Prueba">
-    <configuration name="DropWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk9.streams.DropWhile" />
+  <component name="RunManager" selected="Application.com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas">
+    <configuration name="Inferencia1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk10.inferencia.Inferencia1" />
       <module name="peeperJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.toniferr.peeperJava.jdk9.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk9.streams.Iterate" />
-      <module name="peeperJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.toniferr.peeperJava.jdk9.streams.*" />
+          <option name="PATTERN" value="com.toniferr.peeperJava.jdk10.inferencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +121,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk9.streams.TakeWhile" />
+    <configuration name="Pruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk10.collectors.Pruebas" />
       <module name="peeperJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.toniferr.peeperJava.jdk9.streams.*" />
+          <option name="PATTERN" value="com.toniferr.peeperJava.jdk10.collectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas" />
+      <module name="peeperJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toniferr.peeperJava.jdk10.orelsethrow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DropWhile" />
+      <item itemvalue="Application.Inferencia1" />
       <item itemvalue="Application.IterateInfinito" />
       <item itemvalue="Application.Prueba" />
-      <item itemvalue="Application.TakeWhile" />
-      <item itemvalue="Application.Iterate" />
+      <item itemvalue="Application.com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas" />
+      <item itemvalue="Application.Pruebas" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas" />
+        <item itemvalue="Application.Pruebas" />
+        <item itemvalue="Application.Inferencia1" />
         <item itemvalue="Application.Prueba" />
         <item itemvalue="Application.IterateInfinito" />
-        <item itemvalue="Application.DropWhile" />
-        <item itemvalue="Application.TakeWhile" />
-        <item itemvalue="Application.Iterate" />
       </list>
     </recent_temporary>
   </component>

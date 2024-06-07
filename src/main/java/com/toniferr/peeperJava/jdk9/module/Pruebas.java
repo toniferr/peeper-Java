@@ -1,8 +1,4 @@
-package com.toniferr.peeperJava.jdk9.http;
-
-import java.io.IOException;
-import java.net.URI;
-import java.net.URISyntaxException;
+package com.toniferr.peeperJava.jdk9.module;
 
 public class Pruebas {
 
