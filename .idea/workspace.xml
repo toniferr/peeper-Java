@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca0b9f8-2eb0-41e0-9c4b-e6aebe276e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/httpClient/HttpClient0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/httpClient/HttpClient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/httpClient/HttpClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/httpClient/HttpClient3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/inputstream/Pruebas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/string/Pruebas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk12/switchs/Pruebas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/module/Pruebas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk9/module/Pruebas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk10/orelsethrow/Pruebas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk10/orelsethrow/Pruebas.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DropWhile.executor": "Run",
+    "Application.Ejemplo_1.executor": "Run",
     "Application.HttpClient0.executor": "Run",
     "Application.Inferencia1.executor": "Run",
     "Application.Iterate.executor": "Run",
@@ -67,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/toniferr/Workspace/peeperJava/src/main/java/com/toniferr/peeperJava/jdk11/optionals",
+    "last_opened_file_path": "/home/toniferr/Workspace/peeperJava/src/main/java/com/toniferr/peeperJava/jdk12/switch",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -76,50 +70,37 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk12/switch" />
       <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/optionals" />
       <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/inputstream" />
       <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/string" />
       <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/httpClient" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk10/orelsethrow" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk11/inputstream" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.toniferr.peeperJava.jdk11.inputstream.Pruebas">
+  <component name="RunManager" selected="Application.com.toniferr.peeperJava.jdk12.switchs.Pruebas">
+    <configuration name="Ejemplo_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk12.switchs.Ejemplo_1" />
+      <module name="peeperJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toniferr.peeperJava.jdk12.switchs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HttpClient0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk11.httpClient.HttpClient0" />
       <module name="peeperJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.toniferr.peeperJava.jdk11.httpClient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inferencia1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk10.inferencia.Inferencia1" />
-      <module name="peeperJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.toniferr.peeperJava.jdk10.inferencia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk10.collectors.Pruebas" />
-      <module name="peeperJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.toniferr.peeperJava.jdk10.collectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,20 +134,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.toniferr.peeperJava.jdk12.switchs.Pruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.toniferr.peeperJava.jdk12.switchs.Pruebas" />
+      <module name="peeperJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.toniferr.peeperJava.jdk12.switchs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Ejemplo_1" />
       <item itemvalue="Application.HttpClient0" />
-      <item itemvalue="Application.Inferencia1" />
       <item itemvalue="Application.com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas" />
       <item itemvalue="Application.com.toniferr.peeperJava.jdk11.inputstream.Pruebas" />
-      <item itemvalue="Application.Pruebas" />
+      <item itemvalue="Application.com.toniferr.peeperJava.jdk12.switchs.Pruebas" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.toniferr.peeperJava.jdk12.switchs.Pruebas" />
+        <item itemvalue="Application.Ejemplo_1" />
         <item itemvalue="Application.com.toniferr.peeperJava.jdk11.inputstream.Pruebas" />
         <item itemvalue="Application.HttpClient0" />
         <item itemvalue="Application.com.toniferr.peeperJava.jdk10.orelsethrow.Pruebas" />
-        <item itemvalue="Application.Pruebas" />
-        <item itemvalue="Application.Inferencia1" />
       </list>
     </recent_temporary>
   </component>
