@@ -13,7 +13,7 @@ public class Pruebas {
 
 		// Create a RandomGenerator instance using the PCG32 algorithm
 		RandomGenerator rng = RandomGeneratorFactory.of("L32X64MixRandom").create();
-		
+
 		// Generate 10 random integers between 0 and 100 (inclusive)
 		for (int i = 0; i < 10; i++) {
 			int randomInt = rng.nextInt(101); // 0 to 100 inclusive

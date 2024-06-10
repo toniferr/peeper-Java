@@ -103,6 +103,8 @@ Proyecto enfocado en la práctica de las distintas versiones jdk desde la 8 hast
 - **Semántica de Coma Flotante Estricta**: Restauró la consistencia en operaciones de coma flotante.
 
 ## JDK18
+- **UTF-8 por Defecto**: Antes, el conjunto de caracteres predeterminado en Java variaba según el sistema operativo y la configuración de idioma.
+- **Servidor Web Simple**: Incluye un servidor web simple para crear prototipos y realizar pruebas.
 - **Patrón de coincidencia en instanceof**: Facilita la comprobación de tipos.
 - **Mejoras en recolección de basura (ZGC)**: Mayor eficiencia.
 
