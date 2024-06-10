@@ -4,33 +4,33 @@ Proyecto enfocado en la práctica de las distintas versiones jdk desde la 8 hast
 
 <div>
     <ul>
-        <li><a href="#-jdk8">JDK 8 (Marzo 2014)</a></li>
+        <li><a href="#jdk8">JDK 8 (Marzo 2014)</a></li>
             <ul>
                 <li>LTS - Soporte extendido Diciembre 2030</li>
             </ul>
-        <li><a href="#-jdk9">JDK 9 (Septiembre 2017)</a></li>
-        <li><a href="#-jdk10">JDK 10 (Marzo 2018)</a></li>
-        <li><a href="#-jdk11">JDK 11 (Septiembre 2018)</a></li>
+        <li><a href="#jdk9">JDK 9 (Septiembre 2017)</a></li>
+        <li><a href="#jdk10">JDK 10 (Marzo 2018)</a></li>
+        <li><a href="#jdk11">JDK 11 (Septiembre 2018)</a></li>
             <ul>
                 <li>LTS - Soporte extendido Enero 2032</li>
             </ul>
-        <li><a href="#-jdk12">JDK 12 (Marzo 2019)</a></li>
-        <li><a href="#-jdk13">JDK 13 (Septiembre 2019)</a></li>
-        <li><a href="#-jdk14">JDK 14 (Marzo 2020)</a></li>
-        <li><a href="#-jdk15">JDK 15 (Septiembre 2020)</a></li>
-        <li><a href="#-jdk16">JDK 16 (Marzo 2021)</a></li>
-        <li><a href="#-jdk17">LTS JDK 17 (Septiembre 2021)</a></li>
+        <li><a href="#jdk12">JDK 12 (Marzo 2019)</a></li>
+        <li><a href="#jdk13">JDK 13 (Septiembre 2019)</a></li>
+        <li><a href="#jdk14">JDK 14 (Marzo 2020)</a></li>
+        <li><a href="#jdk15">JDK 15 (Septiembre 2020)</a></li>
+        <li><a href="#jdk16">JDK 16 (Marzo 2021)</a></li>
+        <li><a href="#jdk17">LTS JDK 17 (Septiembre 2021)</a></li>
         <ul>
             <li>LTS - Soporte extendido Septiembre 2029</li>
         </ul>
-        <li><a href="#-jdk18">JDK 18 (Marzo 2022)</a></li>
-        <li><a href="#-jdk19">JDK 19 (Septiembre 2022)</a></li>
-        <li><a href="#-jdk20">JDK 20 (Marzo 2023)</a></li>
-        <li><a href="#-jdk21">JDK 21 (Septiembre 2023)</a></li>
+        <li><a href="#jdk18">JDK 18 (Marzo 2022)</a></li>
+        <li><a href="#jdk19">JDK 19 (Septiembre 2022)</a></li>
+        <li><a href="#jdk20">JDK 20 (Marzo 2023)</a></li>
+        <li><a href="#jdk21">JDK 21 (Septiembre 2023)</a></li>
         <ul>
             <li>LTS - Soporte extendido Septiembre 2031</li>
         </ul>
-        <li><a href="#-jdk22">JDK 22 (Marzo 2024)</a></li>
+        <li><a href="#jdk22">JDK 22 (Marzo 2024)</a></li>
         <li>JDK 23 (Septiembre 2024)</li>
         <li>JDK 24 (Marzo 2025)</li>
         <li>JDK 25 (Septiembre 2025)</li>
