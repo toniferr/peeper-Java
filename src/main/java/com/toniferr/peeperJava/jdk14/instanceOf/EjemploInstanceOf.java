@@ -1,4 +1,4 @@
-package com.toniferr.peeperJava.jdk14.ej_instanceof;
+package com.toniferr.peeperJava.jdk14.instanceOf;
 
 public class EjemploInstanceOf {
 
