@@ -1,13 +1,11 @@
 package com.toniferr.peeperJava.jdk12.switchs;
 
-public class Pruebas {
+public class ReturnSwitchAndMultiCase {
 
 	public static void main(String[] args) {
         System.out.println(getValueBefore12("a"));
         System.out.println(getValueMultipleLabels("c"));
         System.out.println(getValueViaArrow("e"));
-        System.out.println(getValueViaYield("f"));
-        System.out.println(getValueViaYield("z"));
     }
 
     /** Traditional switch **/
@@ -63,23 +61,6 @@ public class Pruebas {
                 yield 3;
             }
             default -> -1;
-        };
-        return result;
-    }
-
-    /** Java 13, switch expression returns a value via yield **/
-    private static int getValueViaYield(String mode) {
-        int result = switch (mode) {
-            case "a", "b":
-                yield 1;
-            case "c":
-                yield 2;
-            case "d", "e", "f":
-                // do something here...
-                System.out.println("Supports multi line block!");
-                yield 3;
-            default:
-                yield -1;
         };
         return result;
     }
