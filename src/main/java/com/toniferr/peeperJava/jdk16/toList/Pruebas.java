@@ -1,7 +1,5 @@
 package com.toniferr.peeperJava.jdk16.toList;
 
-import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 import java.util.List;
 

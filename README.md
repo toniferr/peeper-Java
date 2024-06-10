@@ -99,7 +99,7 @@ Proyecto enfocado en la práctica de las distintas versiones jdk desde la 8 hast
 - **API Vector**: Introdujo un módulo de nivel “incubador” para expresar cálculos vectoriales en tiempo de ejecución.
 
 ## JDK17
-- **Clases Selladas (Sealed)**: Estable. Permiten restringir la extensibilidad de las clases.
+- **Generadores de Números Pseudoaleatorios Mejorados**: Proporciona nuevas interfaces e implementaciones para generadores de números pseudoaleatorios (PRNG).
 - **Semántica de Coma Flotante Estricta**: Restauró la consistencia en operaciones de coma flotante.
 
 ## JDK18
