@@ -110,19 +110,30 @@ Proyecto enfocado en la práctica de las distintas versiones jdk desde la 8 hast
 
 ## JDK19
 - **Patrones de Registro (Record Patterns)**: Facilita la creación de clases de registro con patrones más expresivos.
-- **Correspondencia de Patrones para Sentencias Switch**: Mejora la coincidencia de patrones en expresiones y declaraciones switch.
+- **Hilos virtuales**: Experimental. Los hilos virtuales proporcionan una alternativa más ligera y eficiente a los hilos del sistema operativo tradicionales, lo que permite un mejor rendimiento y una mejor utilización de los recursos para las cargas de trabajo de alta concurrencia.
+- **Concurrencia estructurada**: Experimental. Permite escribir aplicaciones concurrentes más limpias
+- **API Vectorial**: Para operaciones vectoriales
+- **API de memoria y funcion externa**: Sustituye la interfaz nativa de Java (JNI) por un modelo de desarrollo de Java puro superior.
 
 ## JDK20
-- **Patrón de coincidencia en expresiones lambda**: Mayor concisión en el código.
-- **API de patrones**: Introduce patrones personalizados.
+- Continúa funcionalidades experimentales.
 
 ## JDK21
-- **Características Estables, Preview y Beta**: Incluye diversas características como parte del proyecto Amber.
-- **Project Loom (Virtual Threads y Structured Concurrency)**: Facilita la escritura de aplicaciones concurrentes de alto rendimiento.
-- **Patrón de coincidencia en interfaces**: Mayor flexibilidad en interfaces.
-- **API de recolección de registros**: Mejoras en el manejo de registros.
+- **Colecciones secuenciadas**: Se han definido tres nuevas interfaces para colecciones secuenciadas: SequencedCollection, SequencedSet y SequencedMap.
 
 ## JDK22
 - **Mejoras de Lenguaje de OpenJDK Project Amber**: Incluye Statements before super, Unnamed Variables & Patterns, String Templates y Implicitly Declared Classes and Instance Main Methods.
 - **Project Panama (Foreign Function & Memory API y Vector API)**: Mejora la interoperabilidad con código no Java y aprovecha instrucciones vectoriales.
 - **Actualizaciones de Rendimiento**: Introduce Region Pinning para G1.
+
+
+## Proyectos en JAVA
+
+### AMBER
+El proyecto Amber se centra en pequeñas pero importantes mejoras en el JDK para hacer el proceso de desarrollo más agradable. Incluye cambios como la inferencia de tipos de variables locales y otras mejoras del lenguaje que se han ido incorporando desde Java 10.
+
+### LOOM
+El proyecto Loom, busca introducir en Java un modelo de concurrencia ligero y de alto rendimiento en Java. Propone hilos virtuales (aparecidos en versión definitiva en Java 21), también conocidos como ‘fibers’, que son más escalables y eficientes que los hilos tradicionales del sistema operativo.
+
+### PANAMA
+El proyecto Panama, dentro de Java, tiene como objetivo facilitar la interacción entre Java y las APIs externas (no Java), como código nativo en C o C++. Proporciona una forma más segura y eficiente de invocar funciones nativas y acceder a memoria externa, superando las limitaciones de la Java Native Interface (JNI).
