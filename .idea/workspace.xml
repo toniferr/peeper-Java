@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c7b764-230e-4fae-9dc3-8985d9f77ca4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk14/ej_instanceof/EjemploInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk14/instanceOf/EjemploInstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk14/record/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/toniferr/peeperJava/jdk14/record/PhoneNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk14/ej_instanceof/EjemploInstanceOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk14/ej_instanceof/EjemploInstanceOf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk14/nullpointer/Example5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk14/nullpointer/Example5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk14/record/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/toniferr/peeperJava/jdk14/record/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
