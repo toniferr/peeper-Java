@@ -93,6 +93,9 @@ Proyecto enfocado en la práctica de las distintas versiones jdk desde la 8 hast
 - **Foreign-Memory Access**: Permite a los programas acceder de froma segura y eficiente a memoria externa fuera de heap.
 
 ## JDK16
+- **Invocar métodos predeterminados desde instancias de proxy**: Antes de Java 16, no podíamos invocar métodos predeterminados de interfaces a través de reflexión en instancias de proxy.
+- **Soporte para períodos del día**: El nuevo símbolo “B” en DateTimeFormatter permite representar períodos del día.
+- **Método Stream.toList**: Ahora puedes usar toList() en lugar de collect(Collectors.toList()).
 - **API Vector**: Introdujo un módulo de nivel “incubador” para expresar cálculos vectoriales en tiempo de ejecución.
 
 ## JDK17
