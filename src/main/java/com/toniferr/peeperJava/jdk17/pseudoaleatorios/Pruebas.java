@@ -1,18 +1,23 @@
 package com.toniferr.peeperJava.jdk17.pseudoaleatorios;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.random.RandomGenerator;
 import java.util.random.RandomGeneratorFactory;
-import java.util.stream.IntStream;
 
 public class Pruebas {
 
 	public static void main(String[] args) {
 
-		IntStream randomInts = RandomGeneratorFactory.of("SHA1PRNG")
-				.create()
-				.ints(10, 0, 100);
+		System.out.println("Las clases aleatorias heredadas, como " +
+						"java.util.Random, SplittableRandom y SecureRandom " +
+						"ahora amplían la nueva interfaz RandomGenerator.");
 
-		System.out.println(randomInts); //[1, 2, 3]
+		// Create a RandomGenerator instance using the PCG32 algorithm
+		RandomGenerator rng = RandomGeneratorFactory.of("L32X64MixRandom").create();
+		
+		// Generate 10 random integers between 0 and 100 (inclusive)
+		for (int i = 0; i < 10; i++) {
+			int randomInt = rng.nextInt(101); // 0 to 100 inclusive
+			System.out.println(randomInt);
+		}
 	}
 }
